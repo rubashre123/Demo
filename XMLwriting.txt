@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="dknlsf">
+
+<title>IRCTC Overview </title>
+
+<shortdesc>                        </shortdesc>
+
+<conbody>
+
+<p> --------------- </p>
+<p> --------------- </p>
+
+<ul>
+  <li> <p> --------- </p> </li>
+  <li> <p> --------- </p> </li>
+</ul>
+
+
+</conbody>
+
+</concept>
+
+TASK TOPIC declaration:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<task id="dknlsf">
+
+<title> How to merge PDF files </title>
+
+<shortdesc>                        </shortdesc>
+
+<taskbody>
+
+<prereq> <p>             </p> </prereq>
+
+<context> <p>                             </p>
+          <p>                             </p>
+</context>
+
+<steps>
+
+<step> <cmd>                   </cmd>
+       <info><p>           </p></info> 
+       <stepresult><p>     </p></stepresult> 
+
+</step>
+
+<step> <cmd>              </cmd>              
+<substeps>
+<substep><cmd>            </cmd></substep>
+<substep><cmd>            </cmd></substep>
+</substeps>
+</step>
+
+<step>               </step>
+
+</steps> 
+
+</taskbody>
+
+</task>
