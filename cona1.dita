@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cona1">
+    <title>cona1</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p conref="cona2.dita#cona2/abcd"/>
+        <p>gjhhj</p>
+        <fig id="fig_ffm_tkr_jdc">
+            <image href="Images/WhatsApp%20Image%202024-11-11%20at%2012.40.24_3d842053.jpg"
+                id="image_qnm_5kr_jdc"/>
+            <image>
+                <alt/>
+            </image>
+        </fig>
+    </conbody>
+</concept>

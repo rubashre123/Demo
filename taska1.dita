@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="taska1">
+    <title>taska1</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+            <p conref="cona2.dita#cona2/abcd"/>
+        </context>
+        <steps>
+            <step>
+                <cmd>gjhjkh</cmd>
+            </step>
+            <step>
+                <cmd> click image <image href="Images/Image%202.png" id="image_w5t_ykr_jdc">
+                        <alt/>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>click <uicontrol>submit</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Go to<menucascade>
+                        <uicontrol>Home</uicontrol>
+                        <uicontrol>ABC</uicontrol>
+                        <uicontrol>XYZ</uicontrol>
+                    </menucascade></cmd>
+            </step>
+            <step>
+                <cmd>Select one of the following:</cmd>
+                <choices id="choices_hwf_hmr_jdc">
+                    <choice/>
+                    <choice/>
+                </choices>
+            </step>
+            <stepsection>
+                <table frame="all" rowsep="1" colsep="1" id="table_blq_glr_jdc">
+                    <title>Title Example</title>
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry>
+                                    <p>Heading1</p>
+                                </entry>
+                                <entry>
+                                    <p>Heading 2</p>
+                                </entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>
+                                    <p>ghghjhj</p>
+                                </entry>
+                                <entry>
+                                    <p>sample</p>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry>
+                                    <p>ggjhjk</p>
+                                </entry>
+                                <entry>
+                                    <p>Example</p>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry>
+                                    <p>erytuj</p>
+                                </entry>
+                                <entry>
+                                    <p>Across</p>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry>
+                                    <p>fhfghgjj</p>
+                                </entry>
+                                <entry>
+                                    <p>Global</p>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </stepsection>
+        </steps>
+    </taskbody>
+</task>
