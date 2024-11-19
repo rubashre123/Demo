@@ -5,13 +5,12 @@
     <shortdesc></shortdesc>
     <conbody>
         <p conref="cona2.dita#cona2/abcd"/>
-        <p>gjhhj</p>
-        <fig id="fig_ffm_tkr_jdc">
-            <image href="Images/WhatsApp%20Image%202024-11-11%20at%2012.40.24_3d842053.jpg"
-                id="image_qnm_5kr_jdc"/>
-            <image>
-                <alt/>
-            </image>
+        <p>gjhhj guhjhkjjkjlkp</p>
+        <fig id="fig_fqq_4jz_kdc">
+            <image
+                href="../../Users/madha/Desktop/Software%20Tech%20Writing%20Training/DITA_Practices/Images/Image%204.png"
+                id="image_u4h_pjz_kdc"/>
         </fig>
+        <p>added to test</p>
     </conbody>
 </concept>
